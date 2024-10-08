@@ -25,6 +25,6 @@ jobs:
       - name: Terraform Apply
         run: terraform apply -auto-approve
         env:
-          SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
-          SNOWFLAKE_USERNAME: ${{ secrets.SNOWFLAKE_USERNAME }}
-          SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
+ SNOWFLAKE_ACCOUNT: ${{ secrets. snowflake.com/ichuvnn/vy07960}}
+ SNOWFLAKE_USERNAME: ${{ secrets.Ramesh031 }}
+ SNOWFLAKE_PASSWORD: ${{ secrets.Ram@159h5a0317 }}
